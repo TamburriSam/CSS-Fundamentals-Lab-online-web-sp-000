@@ -36,3 +36,8 @@ p.par {
   margin-left: auto;
   margin-right: auto;
 }
+
+#details {
+  display:block;
+  float:left;
+}
