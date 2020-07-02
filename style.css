@@ -23,7 +23,7 @@ header {
   text-align: center;
 }
 
-a#test {
+a.test {
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
