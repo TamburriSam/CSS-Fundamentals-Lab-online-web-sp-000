@@ -43,4 +43,7 @@ p.par {
 
 div {
   float:left;
+  background-color:purple;
+  text-align: center;
+  width:25%;
 }
