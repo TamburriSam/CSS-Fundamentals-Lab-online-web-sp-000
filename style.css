@@ -30,7 +30,7 @@ nav a {
   background-color: grey;
 }
 
-p#1 {
+p.par {
   width:800px;
   text-align: center;
 }
