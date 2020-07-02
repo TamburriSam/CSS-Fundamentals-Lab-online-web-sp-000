@@ -29,3 +29,8 @@ nav a {
   padding-right: 10px;
   background-color: grey;
 }
+
+p#featured-property {
+  width:800px;
+  text-align: center;
+}
